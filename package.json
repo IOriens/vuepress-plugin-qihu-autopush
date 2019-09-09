@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "Junjie.dev"
+  },
+  "bugs": {
+    "url": "https://github.com/IOriens/vuepress-plugin-qihu-autopush/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "360 autopush SEO plugin for vuepress. 360站点自动推送 Vuepress 插件。",
+  "homepage": "https://github.com/IOriens/vuepress-plugin-qihu-autopush#readme",
+  "keywords": [
+    "360",
+    "push",
+    "vuepress",
+    "自动推送"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "vuepress-plugin-qihu-autopush",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IOriens/vuepress-plugin-qihu-autopush.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
